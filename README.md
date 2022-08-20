@@ -35,7 +35,7 @@ Here is an overview of my very first web page:
 <details>
 <summary>Sagittarius</summary>
 
-![Sagittarius](https://github.com/EliSacch/media/sagittarius.png)
+![Sagittarius](https://github.com/EliSacch/EliSacch/blob/main/media/sagittarius.png)
 
 </details>
 
