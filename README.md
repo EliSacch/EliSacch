@@ -72,6 +72,21 @@ This projects is an important part of my learning, since for the first time I ha
 
 </details>
 
+<details>
+<summary>ScoreTRACKER</summary>
+
+This was my second project for the Code Institute course, and it was built using HTML, CSS and JavaScript. 
+
+This second project was so much fun to build, because it is focused on JavaScript.
+
+
+[Live website](https://elisacch.github.io/score-tracker/)
+
+[Git repository](https://github.com/EliSacch/score-tracker.git)
+
+</details>
+
+
 
 
 
