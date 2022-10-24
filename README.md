@@ -30,18 +30,6 @@ It gave me the knowledge to start building my first projects, and I learned the 
 - PHP
 - MySql
 
-Here is an overview of my very first web page:
-
-<details>
-<summary>Sagittarius</summary>
-
-![Sagittarius](https://github.com/EliSacch/EliSacch/blob/main/media/sagittarius.png)
-
-</details>
-
-
-I have been practicing a lot since this first web page, and I keep working on new projects to apply what I learn.
-
 
 After 1 year of self learning although, I was feeling that something was missing, and that I needed a more structured course. This is why in the end of June 2022 I started my journey with [Code Institute](https://codeinstitute.net/global/)
 
