@@ -16,7 +16,7 @@ I love walking, taekwondo and, as I recently discovered, coding :)
 I started my career in hospitality, fascinated by the opportunity this sector offers to work abroad and live diffent cultures.
 
 
-Here in Ireland I could experience a stimulating and multicultural evnvironment, and it is here that I discovered the world od coding.
+Here in Ireland I could experience a stimulating and multicultural evnvironment, and it is here that I discovered the world of coding.
 
 ## Studies
 
