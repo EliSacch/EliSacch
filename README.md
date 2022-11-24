@@ -8,7 +8,7 @@ I was born in Italy in 1992, and I grew up in a small town between the mountains
 In 2019 I moved to Ireland, where I now live with my sister.  
 
 
-I love walking, taekwondo, and (as I recently discovered) coding :)
+I love walking, taekwondo and, as I recently discovered, coding :)
 
 
 ## Career
@@ -74,8 +74,31 @@ This second project was so much fun to build, because it is focused on JavaScrip
 
 </details>
 
+<details>
+<summary>PizzaTruck</summary>
 
+A command line application that runs on a mock terminal hosted on Heroku.
+The purpose of this program is to manage the user ordering process.
 
+[Live website](https://pizza-truck.herokuapp.com/)
+
+[Git repository](https://github.com/EliSacch/PizzaTruck.git)
+
+</details>
+
+### Collaborative projects
+
+<details>
+<summary>Hackaton November 2022</summary>
+
+A command line application that runs on a mock terminal hosted on Heroku.
+The purpose of this program is to manage the user ordering process.
+
+[Live website](https://elisacch.github.io/time-signature/index.html)
+
+[Git repository](https://github.com/EliSacch/time-signature.git)
+
+</details>
 
 
 
