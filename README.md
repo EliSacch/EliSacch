@@ -89,10 +89,9 @@ The purpose of this program is to manage the user ordering process.
 ### Collaborative projects
 
 <details>
-<summary>Hackaton November 2022</summary>
+<summary>Tempo - Hackaton November 2022</summary>
 
-A command line application that runs on a mock terminal hosted on Heroku.
-The purpose of this program is to manage the user ordering process.
+An educational multiple choice quiz about music time signatures.
 
 [Live website](https://elisacch.github.io/time-signature/index.html)
 
