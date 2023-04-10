@@ -81,6 +81,8 @@ This second project was so much fun to build, because it is focused on JavaScrip
 
 A command line application that runs on a mock terminal hosted on Heroku.
 The purpose of this program is to manage the user ordering process.
+  
+Technologies: Python
 
 [Live website](https://pizza-truck.herokuapp.com/)
 
@@ -92,6 +94,8 @@ The purpose of this program is to manage the user ordering process.
 <summary>Yummy - Recipe Book</summary>
 
 A web application that allows users to save and store their recipes and access them from any device.
+  
+Technologies: HTML / CSS / JQuery / Python / Django / PostgreSQL
 
 [Live website](https://yummy-recipe-book.herokuapp.com/)
 
