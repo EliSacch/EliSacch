@@ -4,8 +4,7 @@
 
 ## About me
 
-I was born in Italy in 1992, and I grew up in a small town between the mountains and the sea.
-In 2019 I moved to Ireland, where I now live with my sister.  
+I grew up in a small town in Italy, between the mountains and the sea, and i moved to Ireland in 2019.
 
 
 I love walking, taekwondo and, as I recently discovered, coding :)
@@ -13,10 +12,11 @@ I love walking, taekwondo and, as I recently discovered, coding :)
 
 ## Career
 
-I started my career in hospitality, fascinated by the opportunity this sector offers to work abroad and live diffent cultures.
+I started my career in hospitality, fascinated by the opportunity this sector offers to work abroad and get in contact with diffent cultures.
 
 
 Here in Ireland I could experience a stimulating and multicultural evnvironment, and it is here that I discovered the world of coding.
+
 
 ## Studies
 
@@ -37,10 +37,12 @@ After 1 year of self learning although, I was feeling that something was missing
 Not only I could refresh my knowledge in HTML, CSS, and Javascript, but the program includes the folowwing languages and frameworks:
 - Python
 - Django
+- PostgreSQL
 - Flask
 - React
 
-But more than everything it teaches best practices, and it allows to start collaborating with other developers.
+
+But most importantly, it teaches best practices, and it allows to start collaborating with other developers.
 
 ## Completed Projects
 
@@ -86,6 +88,17 @@ The purpose of this program is to manage the user ordering process.
 
 </details>
 
+<details>
+<summary>Yummy - Recipe Book</summary>
+
+A web application that allows users to save and store their recipes and access them from any device.
+
+[Live website](https://yummy-recipe-book.herokuapp.com/)
+
+[Git repository](https://github.com/EliSacch/yummy)
+
+</details>
+
 ### Collaborative projects
 
 <details>
@@ -98,9 +111,3 @@ An educational multiple choice quiz about music time signatures.
 [Git repository](https://github.com/EliSacch/time-signature.git)
 
 </details>
-
-
-
-
-
-
