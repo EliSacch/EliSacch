@@ -1,21 +1,21 @@
 # Hi there
 
-### My name is Elisa, and I am studying to be a web developer.
+### My name is Elisa, and I am an aspiring Full Stack Developer.
 
 ## About me
 
 I grew up in a small town in Italy, between the mountains and the sea, and i moved to Ireland in 2019.
 
 
-I love walking, taekwondo and, as I recently discovered, coding :)
+I love walking, taekwondo, and, as I recently discovered, coding :)
 
 
 ## Career
 
-I started my career in hospitality, fascinated by the opportunity this sector offers to work abroad and get in contact with diffent cultures.
+I started my career in hospitality, fascinated by the opportunity this sector offers to work abroad and get in contact with different cultures.
 
 
-Here in Ireland I could experience a stimulating and multicultural evnvironment, and it is here that I discovered the world of coding.
+Here in Ireland, I could experience a stimulating and multicultural environment, and it is here that I discovered the world of coding.
 
 
 ## Studies
@@ -23,7 +23,7 @@ Here in Ireland I could experience a stimulating and multicultural evnvironment,
 My first step towards this new career was to start a course online. This is why I completed 
 [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) on Udemy.
 
-It gave me the knowledge to start building my first projects, and I learned the foundamentals of:
+It gave me the knowledge to start building my first projects, and I learned the fundamentals of:
 - HTML
 - CSS
 - JavaScript
@@ -31,48 +31,58 @@ It gave me the knowledge to start building my first projects, and I learned the 
 - MySql
 
 
-After 1 year of self learning although, I was feeling that something was missing, and that I needed a more structured course. This is why in the end of June 2022 I started my journey with [Code Institute](https://codeinstitute.net/global/)
+After 1 year of self-learning, I was feeling that something was missing and that I needed a more structured course. This is why at the end of June 2022 I started my journey with [Code Institute](https://codeinstitute.net/global/)
 
 
-Not only I could refresh my knowledge in HTML, CSS, and Javascript, but the program includes the folowwing languages and frameworks:
+Not only I could refresh my knowledge in HTML, CSS, and Javascript, but I have also learnt the following languages and frameworks:
 - Python
-- Django
-- PostgreSQL
 - Flask
+- PostgreSQL
+- Django
+- Django REST Framework
 - React
 
 
-But most importantly, it teaches best practices, and it allows to start collaborating with other developers.
+But most importantly, it taught me best practices, and it allowed me to start collaborating with other developers.
 
 ## Completed Projects
 
 Here are some of the most recent projects:
 
 <details>
-<summary>Etruria</summary>
+<summary>Platinum</summary>
 
-This was my first project for the Code Institute course, and it was built just with HTML and CSS. 
+React application for a hairdresser website and booking management system.
+  
+Technologies: React
 
-This projects is an important part of my learning, since for the first time I had to write documentation and test my website.
+[Live website](https://platinum.herokuapp.com/)
 
-
-[Live website](https://elisacch.github.io/etruria/)
-
-[Git repository](https://github.com/EliSacch/etruria)
+[Git repository](https://github.com/EliSacch/platinum)
 
 </details>
 
 <details>
-<summary>ScoreTRACKER</summary>
+<summary>PlatinumBooking API</summary>
 
-This was my second project for the Code Institute course, and it was built using HTML, CSS and JavaScript. 
+API for a booking management system built using the Django REST framework.
+  
+Technologies: Django REST framework, PostgreSQL
 
-This second project was so much fun to build, because it is focused on JavaScript.
+[Git repository](https://github.com/EliSacch/booking-api)
 
+</details>
 
-[Live website](https://elisacch.github.io/score-tracker/)
+<details>
+<summary>Yummy - Recipe Book</summary>
 
-[Git repository](https://github.com/EliSacch/score-tracker.git)
+A web application that allows users to save and store their recipes and access them from any device.
+  
+Technologies: HTML / CSS / JQuery / Python / Django / PostgreSQL
+
+[Live website](https://yummy-recipe-book.herokuapp.com/)
+
+[Git repository](https://github.com/EliSacch/yummy)
 
 </details>
 
@@ -91,24 +101,38 @@ Technologies: Python
 </details>
 
 <details>
-<summary>Yummy - Recipe Book</summary>
+<summary>ScoreTRACKER</summary>
 
-A web application that allows users to save and store their recipes and access them from any device.
-  
-Technologies: HTML / CSS / JQuery / Python / Django / PostgreSQL
+This was my second project for the Code Institute course, and it was built using HTML, CSS, and JavaScript. 
 
-[Live website](https://yummy-recipe-book.herokuapp.com/)
+This second project was so much fun to build because it is focused on JavaScript.
 
-[Git repository](https://github.com/EliSacch/yummy)
+[Live website](https://elisacch.github.io/score-tracker/)
+
+[Git repository](https://github.com/EliSacch/score-tracker.git)
 
 </details>
+
+<details>
+<summary>Etruria</summary>
+
+This was my first project for the Code Institute course, and it was built just with HTML and CSS. 
+
+This project is an important part of my learning since I had to write documentation and test my website for the first time.
+
+[Live website](https://elisacch.github.io/etruria/)
+
+[Git repository](https://github.com/EliSacch/etruria)
+
+</details>
+
 
 ### Collaborative projects
 
 <details>
 <summary>Tempo - Hackaton November 2022</summary>
 
-An educational multiple choice quiz about music time signatures.
+An educational multiple-choice quiz about music time signatures.
 
 [Live website](https://elisacch.github.io/time-signature/index.html)
 
