@@ -58,7 +58,7 @@ Technologies: React
 
 [Live website](https://platinum.herokuapp.com/)
 
-[Git repository](https://github.com/EliSacch/platinum)
+[GitHub repository](https://github.com/EliSacch/platinum)
 
 </details>
 
@@ -69,7 +69,7 @@ API for a booking management system built using the Django REST framework.
   
 Technologies: Django REST framework, PostgreSQL
 
-[Git repository](https://github.com/EliSacch/booking-api)
+[GitHub repository](https://github.com/EliSacch/booking-api)
 
 </details>
 
@@ -82,7 +82,7 @@ Technologies: HTML / CSS / JQuery / Python / Django / PostgreSQL
 
 [Live website](https://yummy-recipe-book.herokuapp.com/)
 
-[Git repository](https://github.com/EliSacch/yummy)
+[GitHub repository](https://github.com/EliSacch/yummy)
 
 </details>
 
@@ -96,7 +96,7 @@ Technologies: Python
 
 [Live website](https://pizza-truck.herokuapp.com/)
 
-[Git repository](https://github.com/EliSacch/PizzaTruck.git)
+[GitHub repository](https://github.com/EliSacch/PizzaTruck.git)
 
 </details>
 
@@ -109,7 +109,7 @@ This second project was so much fun to build because it is focused on JavaScript
 
 [Live website](https://elisacch.github.io/score-tracker/)
 
-[Git repository](https://github.com/EliSacch/score-tracker.git)
+[GitHub repository](https://github.com/EliSacch/score-tracker.git)
 
 </details>
 
@@ -122,7 +122,7 @@ This project is an important part of my learning since I had to write documentat
 
 [Live website](https://elisacch.github.io/etruria/)
 
-[Git repository](https://github.com/EliSacch/etruria)
+[GitHub repository](https://github.com/EliSacch/etruria)
 
 </details>
 
@@ -136,6 +136,6 @@ An educational multiple-choice quiz about music time signatures.
 
 [Live website](https://elisacch.github.io/time-signature/index.html)
 
-[Git repository](https://github.com/EliSacch/time-signature.git)
+[GitHub repository](https://github.com/EliSacch/time-signature.git)
 
 </details>
