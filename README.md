@@ -1,10 +1,10 @@
 # Hi there
 
-### My name is Elisa, and I am an aspiring Full Stack Developer.
+### My name is Elisa, and I am an aspiring Full Stack Software Developer.
 
 ## About me
 
-I grew up in a small town in Italy, between the mountains and the sea, and i moved to Ireland in 2019.
+I grew up in a small town in Italy, between the mountains and the sea, and I moved to Ireland in 2019.
 
 
 I love walking, taekwondo, and, as I recently discovered, coding :)
@@ -20,30 +20,23 @@ Here in Ireland, I could experience a stimulating and multicultural environment,
 
 ## Studies
 
-My first step towards this new career was to start a course online. This is why I completed 
-[The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) on Udemy.
+I have completed a Full Stack Software Development Program at [Code Institute](https://codeinstitute.net/global/), obtaining a diploma which is university credit-rated by The University of the West of Scotland. Level 8 on the Scottish Qualifications Framework (SCQF). Level 5 on the European Qualification Framework (EQF).
 
-It gave me the knowledge to start building my first projects, and I learned the fundamentals of:
+
+Technologies:
 - HTML
 - CSS
-- JavaScript
-- PHP
-- MySql
-
-
-After 1 year of self-learning, I was feeling that something was missing and that I needed a more structured course. This is why at the end of June 2022 I started my journey with [Code Institute](https://codeinstitute.net/global/)
-
-
-Not only I could refresh my knowledge in HTML, CSS, and Javascript, but I have also learnt the following languages and frameworks:
+- JavaScript and JQuery
 - Python
 - Flask
-- PostgreSQL
+- PostgreSQL and mySQL
 - Django
 - Django REST Framework
 - React
 
 
-But most importantly, it taught me best practices, and it allowed me to start collaborating with other developers.
+During my experience I have also learned industries best practices, in regards of accessibility and Agile Development.
+I have had also the opportunity to start collaborating.
 
 ## Completed Projects
 
@@ -130,11 +123,19 @@ This project is an important part of my learning since I had to write documentat
 ### Collaborative projects
 
 <details>
+<summary>PartyForThePlanet - Hackaton September 2023</summary>
+
+A platform to create and find eco-friendly and green events.
+
+[GitHub repository](https://github.com/EliSacch/Party4thePlanet)
+
+</details>
+
+
+<details>
 <summary>Tempo - Hackaton November 2022</summary>
 
 An educational multiple-choice quiz about music time signatures.
-
-[Live website](https://elisacch.github.io/time-signature/index.html)
 
 [GitHub repository](https://github.com/EliSacch/time-signature.git)
 
