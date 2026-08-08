@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=460&height=44&lines=Full-Stack%20Software%20Engineer" alt="Typing headlines" />
 </p>
 
-### 🌻 About Me
+## 🌻 About Me
 
 Hi, my name is Elisa and I am a Full Stack Software Engineer.
 
@@ -18,7 +18,7 @@ I am based in Ireland where I studied programming and I started working as softw
 
 The best part of the job is designing solutions to real life problems.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -38,9 +38,9 @@ The best part of the job is designing solutions to real life problems.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 👩🏼‍💻 My favourite personal projects
+## 👩🏼‍💻 My favourite personal projects
 
-## Yummy - Recipe Book
+### Yummy - Recipe Book
 
 <a href="https://github.com/EliSacch/yummy">Yummy</a> is a web app to store personal recipes and organize them by categories. It is built mainly in Python and Django, and it represents a milestone for me, since it is the last project I built during my studies.
 
