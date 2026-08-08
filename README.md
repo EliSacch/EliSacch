@@ -38,6 +38,13 @@ The best part of the job is designing solutions to real life problems.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+### 👩🏼‍💻 My favourite personal projects
+
+## Yummy - Recipe Book
+
+<a href="https://github.com/EliSacch/yummy">Yummy</a> is a web app to store personal recipes and organize them by categories. It is built mainly in Python and Django, and it represents a milestone for me, since it is the last project I built during my studies.
+
+
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/EliSacch">EliSacch</a></i></p>
 
