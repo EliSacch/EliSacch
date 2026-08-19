@@ -40,9 +40,9 @@ The best part of the job is designing solutions to real life problems.
 
 ## 👩🏼‍💻 My projects
 
-### MyNotes 
+### PinIt 
 
-[MyNotes](https://github.com/EliSacch/myNotes)
+[PinIt](https://github.com/EliSacch/pin-it)
 
 
 ### Yummy - Recipe Book
